@@ -5,6 +5,8 @@
 <h1 align="center">Hi 👋, I'm Leinad Cybre</h1>
 <h3 align="center">A passionate fullstack developer from Kenya , Nakuru</h3>
 
+
+<p>This is a **Android Kotlin Calculator App**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leinadcybre1024&label=Profile%20views&color=0e75b6&style=flat" alt="leinadcybre1024" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leinadcybre1024" alt="leinadcybre1024" /></a> </p>
